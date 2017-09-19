@@ -8,4 +8,4 @@ These examples are provided as-is and we cannot provide support, but please let 
 
 ## Contents
 
-* [botornot active users](botornot active users.ipynb): Use OSoMe to get the most active users given a hashtag, then use BotOrNot to analyze how many of these users are likely to be [social bots](http://arxiv.org/abs/1407.5225).
+* [botornot active users](botornot%20active%20users.ipynb): Use OSoMe to get the most active users given a hashtag, then use BotOrNot to analyze how many of these users are likely to be [social bots](http://arxiv.org/abs/1407.5225).
